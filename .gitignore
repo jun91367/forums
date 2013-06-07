@@ -1,0 +1,16 @@
+*~
+*.swp
+.idea/
+.rvmrc
+.ruby-version
+.ruby-gemset
+.DS_Store
+tags
+README.rdoc
+config/database.yml
+log/
+tmp/
+test/
+public/
+public/system/
+public/uploads/
